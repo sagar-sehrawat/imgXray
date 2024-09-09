@@ -26,9 +26,10 @@ To get started with imgXray, follow these steps:
 		### macOS and Linux:
 		`source myenv/bin/activate
 
-
+	```bash
 	`pip3 install -r requirements.txt
 	python3 setup.py
+ 	```
 
 3. **Usage**
 	
