@@ -21,18 +21,15 @@ To get started with imgXray, follow these steps:
 	## Activate the Virtual Environment
 
 		### Windows:
-		```bash
 		`myenv\Scripts\activate
-		```
-		### macOS and Linux:
-		```bash
-		`source myenv/bin/activate
-		```
 
-	```bash
+		### macOS and Linux:
+		`source myenv/bin/activate
+
+
 	`pip3 install -r requirements.txt
 	python3 setup.py
-	```
+
 3. **Usage**
 	
 	```bash
