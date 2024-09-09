@@ -1,6 +1,6 @@
 # imgXray
 
-**imgXray** is a multipurpose tool for analyzing and investigating steganography in images. It provides various analysis techniques including binwalk, strings, zsteg, and exiftool, all within a user-friendly interface.
+**imgXray** is a multipurpose tool for analyzing and investigating steganography in images. It provides various analysis techniques within a user-friendly interface.
 
 ## Installation Guide
 
